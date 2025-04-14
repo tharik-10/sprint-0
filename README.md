@@ -4,15 +4,12 @@ This document provides an overview of the Python programming language, detailing
 
 Dependencies
 Build-time Dependencies
-Name	and Version	and Description
-Python	and 3.10+	and Core programming language interpreter
-pip	and Latest	and Package installer for Python
 
-| Name      | Role        | Status     |
-|-----------|-------------|------------|
-| Mohan     | Developer   | ✅ Active  |
-| Pankaj    | Designer    | ❌ Inactive|
-| Shikha    | Manager     | ✅ Active  |
+| Name   | Version | Description                          |
+|--------|---------|--------------------------------------|
+| Python | 3.10+   | Core programming language interpreter |
+| pip    | Latest  | Package installer for Python          |
+
 
 
 
