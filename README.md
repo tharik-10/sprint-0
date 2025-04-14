@@ -78,6 +78,13 @@ This document provides an overview of the Python programming language, about its
 | Python | 3.10+   | Core programming language interpreter |
 | pip    | Latest  | Package installer for Python          |
 
+## Contact Information
+
+| Name | Email address         |
+|------|------------------------|
+| Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
+
+
 
 
 
