@@ -1,4 +1,4 @@
-#  **Python Introduction**    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200"/>                                                                                           
+#  **Python Introduction**    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="150"/>                                                                                           
 
 ## Purpose
 This document provides an overview of the Python programming language, detailing its history, key features, and diverse use cases. It serves as a foundational guide for individuals seeking to understand Python's significance and applications in modern software development.​
