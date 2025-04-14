@@ -1,8 +1,8 @@
 #  **Python Introduction** 
 
-| Author | Created on | Version   | Last updated by | Last edited on |
-|--------|------------    |-----------|-----------------|----------------|
-| Mohamed Tharik | 2025-04-14 | - | Mohamed Tharik  | 2025-04-14     |
+| Author         | Created on     | Version         | Last updated by | Last edited on |
+|----------------|----------------|-----------------|-----------------|----------------|
+| Mohamed Tharik | 2025-04-14     |      -          | Mohamed Tharik  | 2025-04-14     |
 
 ## Purpose
 
