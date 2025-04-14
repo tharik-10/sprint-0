@@ -89,8 +89,6 @@ This document provides an overview of the Python programming language, about its
 | Links                                                                 | Descriptions                                                              |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------------|
 | [Python Devolped History](https://en.wikipedia.org/wiki/Python_(programming_language)#:~:text=Python%20was%20conceived%20in%20the,implementation%20began%20in%20December%201989.) | How Python was invented and python full documentation                                    |
-| [AmpliFi FAQs](https://amplifi.com/user-guide/FAQs.html)             | Documentation referred for the table of contents to be included          |
-| [Intro vs Overview](https://thecontentauthority.com/blog/introduction-vs-overview) | This link explains the difference between Overview & Intro               |
 
 
 
