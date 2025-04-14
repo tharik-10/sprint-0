@@ -12,7 +12,7 @@ This document provides an overview of the Python programming language, detailing
 - **Version Milestones**:
   - *Python 2.0 (2000)*: Introduced list comprehensions, garbage collection via reference counting.  
   - *Python 3.0 (2008)*: Cleaned up inconsistencies, improved Unicode support (not backward compatible).  
-  - *Python 3.6+*: Introduced f-strings, type hinting, async/await enhancements.  
+  - *Python 3.6+*: Introduced f-strings, type hinting, async/await enhancements. 
   - *Python 3.12 (2023)*: Performance improvements, better error messages, enhanced typing.
 
 ## **Features of Python**
