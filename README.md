@@ -84,6 +84,13 @@ This document provides an overview of the Python programming language, about its
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
+## References
+
+| Links                                                                 | Descriptions                                                              |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [Jenkins Installation Guide](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu) | Document format followed from this link                                   |
+| [AmpliFi FAQs](https://amplifi.com/user-guide/FAQs.html)             | Documentation referred for the table of contents to be included          |
+| [Intro vs Overview](https://thecontentauthority.com/blog/introduction-vs-overview) | This link explains the difference between Overview & Intro               |
 
 
 
