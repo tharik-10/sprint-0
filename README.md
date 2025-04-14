@@ -16,24 +16,17 @@ This document provides an overview of the Python programming language, detailing
 
 ## **Features of Python**
 
-📌 Core Features:
-Readable and Concise Syntax – Great for beginners and fast prototyping.
+## 📌 Core Features:
 
-Interpreted and Interactive – Run code line-by-line, ideal for testing and debugging.
-
-Dynamically Typed – Variables don’t need explicit declarations.
-
-Object-Oriented and Functional Support – Classes, objects, closures, and higher-order functions.
-
-Huge Standard Library – Includes modules for OS access, file I/O, networking, and more.
-
-Extensibility – Supports integration with C, C++, Java (via Jython), and .NET (via IronPython).
-
-Embeddable – Python can be embedded into applications written in other languages.
-
-Open Source – Free to use and distribute, with a vibrant global community.
-
-Cross-platform – Runs smoothly on Windows, Linux, macOS, and embedded systems.
+. Readable and Concise Syntax – Great for beginners and fast prototyping.
+. Interpreted and Interactive – Run code line-by-line, ideal for testing and debugging.
+. Dynamically Typed – Variables don’t need explicit declarations.
+. Object-Oriented and Functional Support – Classes, objects, closures, and higher-order functions.
+. Huge Standard Library – Includes modules for OS access, file I/O, networking, and more.
+. Extensibility – Supports integration with C, C++, Java (via Jython), and .NET (via IronPython).
+. Embeddable – Python can be embedded into applications written in other languages.
+. Open Source – Free to use and distribute, with a vibrant global community.
+. Cross-platform – Runs smoothly on Windows, Linux, macOS, and embedded systems.
 
 
 
