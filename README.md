@@ -1,4 +1,4 @@
-# 🐍![image](https://github.com/user-attachments/assets/c16045ca-6a19-4d29-a792-abed1c8a1aec)
+# 🐍![Python Logo](assets/python.png)
 **Python Introduction**
 ## Purpose
 This document provides an overview of the Python programming language, detailing its history, key features, and diverse use cases. It serves as a foundational guide for individuals seeking to understand Python's significance and applications in modern software development.​
@@ -15,6 +15,26 @@ This document provides an overview of the Python programming language, detailing
   - *Python 3.12 (2023)*: Performance improvements, better error messages, enhanced typing.
 
 ## **Features of Python**
+
+📌 Core Features:
+Readable and Concise Syntax – Great for beginners and fast prototyping.
+
+Interpreted and Interactive – Run code line-by-line, ideal for testing and debugging.
+
+Dynamically Typed – Variables don’t need explicit declarations.
+
+Object-Oriented and Functional Support – Classes, objects, closures, and higher-order functions.
+
+Huge Standard Library – Includes modules for OS access, file I/O, networking, and more.
+
+Extensibility – Supports integration with C, C++, Java (via Jython), and .NET (via IronPython).
+
+Embeddable – Python can be embedded into applications written in other languages.
+
+Open Source – Free to use and distribute, with a vibrant global community.
+
+Cross-platform – Runs smoothly on Windows, Linux, macOS, and embedded systems.
+
 
 
 ## Dependencies
