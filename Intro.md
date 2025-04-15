@@ -8,6 +8,14 @@
 
 This document provides an overview of the Python programming language, about its history, key features, and diverse use cases. It serves as a foundational guide for individuals seeking to understand Python's significance and applications in modern software development.​
 
+## **What is Python ?**
+
+**Python** is a **high-level**, **interpreted** programming language known for its **simplicity**, **readability**, and **versatility**.
+
+## **Why is Python so Popular ?**
+
+Python’s combination of readability, flexibility, extensive libraries, and a large community has made it one of the most widely-used programming languages in the world. Whether you are building web apps, doing data science, automating tasks, or even working in machine learning, Python provides the tools to make your projects easier and faster to develop.
+
 ## **History of Python**
 
 - **Creator**: Guido van Rossum  
