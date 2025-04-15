@@ -2,7 +2,7 @@
 
 | Author         | Created on     | Version         | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
 |----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
-| Mohamed Tharik | 2025-04-14     |     Version 1          | Mohamed Tharik  | 2025-04-15     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
+| Mohamed Tharik | 2025-04-14     |     Version 2         | Mohamed Tharik  | 2025-04-15     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
 
 ## Purpose
 
