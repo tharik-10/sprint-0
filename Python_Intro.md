@@ -16,6 +16,22 @@ This document provides an overview of the Python programming language, about its
 
 Python’s combination of readability, flexibility, extensive libraries, and a large community has made it one of the most widely-used programming languages in the world. Whether you are building web apps, doing data science, automating tasks, or even working in machine learning, Python provides the tools to make your projects easier and faster to develop.
 
+## Pre-requisites
+
+Before exploring Python, ensure the following system requirements are met:
+
+### Hardware Requirements
+- **Processor:** Dual-core or higher
+- **RAM:** 4 GB minimum
+- **Disk Space:** At least 20 GB free
+- **Operating System:** Ubuntu 22.04 or latest
+
+### Software Requirements
+- **Python Interpreter:** Version 3.10 or above
+- **Package Manager:** e.g., `pip`
+- **Text Editor / IDE:** e.g., VS Code, PyCharm
+
+
 ## **History of Python**
 
 - **Creator**: Guido van Rossum  
