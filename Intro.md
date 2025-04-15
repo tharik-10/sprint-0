@@ -114,9 +114,10 @@ This document provides an overview of the Python programming language, about its
 
 ## References
 
-| Links                                                                 | Descriptions                                                              |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [Python Devolped History](https://en.wikipedia.org/wiki/Python_(programming_language)#:~:text=Python%20was%20conceived%20in%20the,implementation%20began%20in%20December%201989.) | How Python was invented and python full documentation                                    |
+| Links                                                                                                                                                                                                                     | Descriptions                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [Python Developed History](https://en.wikipedia.org/wiki/Python_(programming_language)#:~:text=Python%20was%20conceived%20in%20the,implementation%20began%20in%20December%201989.)                                       | How Python was invented and full Python documentation                                               |
+| [Features of Python](https://unstop.com/blog/features-of-python)                                                                                                                                                         | An overview of Python's key features including simplicity, versatility, readability, and scalability |
 
 
 
