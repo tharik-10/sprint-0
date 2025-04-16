@@ -71,3 +71,12 @@ python3 -m venv venv
 
 # Activate the virtual environment
 source venv/bin/activate
+
+### 🔹 Step 2: Install Required Packages
+
+Install the packages you need for your project using `pip`.
+
+```bash
+pip install flask pandas gunicorn
+
+
