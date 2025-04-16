@@ -121,6 +121,12 @@ pip freeze > requirements.txt
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
+## 📚 Useful Python Resources
+
+| Links                                                                                                     | Descriptions                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Understanding `requirements.txt` in Python](https://www.freecodecamp.org/news/python-requirementstxt-explained/) | This article explains the purpose of the `requirements.txt` file, how to create it, and how it manages dependencies in Python projects. |
+
 
 
 
