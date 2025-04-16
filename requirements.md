@@ -68,7 +68,7 @@ Version control is **crucial** to avoid conflicts and bugs when dependencies cha
 ### Step 1: Set Up a Virtual Environment
 
 Before installing any packages, create and activate a virtual environment to isolate your project dependencies.
-
+``bash
 # Create a virtual environment named 'venv'
 python3 -m venv venv
 
