@@ -72,11 +72,51 @@ python3 -m venv venv
 # Activate the virtual environment
 source venv/bin/activate
 
+## 📦 Using `requirements.txt` (Step-by-Step Guide)
+
 ### 🔹 Step 2: Install Required Packages
 
 Install the packages you need for your project using `pip`.
 
 ```bash
 pip install flask pandas gunicorn
+
+## 📦 Step-by-Step Guide: Using `requirements.txt` in Your Python Project
+
+---
+
+### 🔹 Step 3: Generate `requirements.txt`
+
+Freeze the currently installed packages and their versions into a `requirements.txt` file.
+
+```bash
+pip freeze > requirements.txt
+
+### 🔹 Step 4: View or Edit `requirements.txt`
+
+You can open the `requirements.txt` file in any text editor to view or modify the list of dependencies.
+
+#### 📄 Example:
+
+```txt
+flask==2.2.3 # Web framework
+pandas==1.5.3 # Data analysis library
+gunicorn==20.1.0 # Production WSGI HTTP Server
+
+### 🔹 Step 6: Install from `requirements.txt`
+
+To install all dependencies listed in the `requirements.txt` file (typically on a new machine or inside a fresh virtual environment), run the following command:
+
+```bash
+pip install -r requirements.txt
+
+### 🔹 Step 7: Keep `requirements.txt` Updated
+
+Whenever you add or remove packages, regenerate the `requirements.txt` file to reflect the current environment:
+
+```bash
+pip freeze > requirements.txt
+
+
 
 
