@@ -10,13 +10,13 @@ The purpose of this document is to explain the significance and usage of the req
 
 ---
 
-## What is `requirements.txt`?
+## **What is `requirements.txt`?**
 
 The `requirements.txt` file is a standard Python convention used to **list project dependencies**. It defines all the external libraries (packages) that your Python project needs to run successfully.
 
 ---
 
-## Why is `requirements.txt` Important?
+## **Why is `requirements.txt` Important?**
 
 -  Ensures **consistent environment setup** across different machines and deployments.
 -  Helps automate installation of dependencies using a simple command (`pip install -r requirements.txt`).
@@ -25,7 +25,7 @@ The `requirements.txt` file is a standard Python convention used to **list proje
 
 ---
 
-## Use Cases
+## **Use Cases**
 
 | Scenario                         | How `requirements.txt` Helps                                      |
 |----------------------------------|--------------------------------------------------------------------|
@@ -37,7 +37,7 @@ The `requirements.txt` file is a standard Python convention used to **list proje
 
 ---
 
-## Versioning Best Practices
+## **Versioning Best Practices**
 
 Version control is **crucial** to avoid conflicts and bugs when dependencies change over time.
 
@@ -52,7 +52,7 @@ Version control is **crucial** to avoid conflicts and bugs when dependencies cha
 
 ---
 
-## Best Practices
+## **Best Practices**
 
 -  **Pin exact versions** (`==`) for production deployments.
 -  Use **compatible versions** (`~=` or `>=`) during development.
@@ -63,7 +63,7 @@ Version control is **crucial** to avoid conflicts and bugs when dependencies cha
 
 ---
 
-## How to Use `requirements.txt`
+## **How to Use `requirements.txt`**
 
 ### Step 1: Set Up a Virtual Environment
 
@@ -115,13 +115,13 @@ Whenever you add or remove Python packages in your environment, regenerate the `
 pip freeze > requirements.txt
 
 ```
-## Contact Information
+## **Contact Information**
 
 | Name | Email address         |
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
-## Reference
+## **Reference**
 
 | Links                                                                                                     | Descriptions                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
