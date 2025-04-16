@@ -68,8 +68,7 @@ Version control is **crucial** to avoid conflicts and bugs when dependencies cha
 ### Step 1: Set Up a Virtual Environment
 
 Before installing any packages, create and activate a virtual environment to isolate your project dependencies.
-
-bash
+```bash
 # Create a virtual environment named 'venv'
 python3 -m venv venv
 
@@ -77,51 +76,51 @@ python3 -m venv venv
 source venv/bin/activate
 
 ---
-
+```
 ### Step 2: Install Required Packages
 
 Use `pip` to install the Python packages your project needs.
-
+```bash 
 pip install flask pandas gunicorn
 
 ---
-
+```
 ## Step 3: Generate `requirements.txt`
 
 After installing all the necessary packages, you can generate the `requirements.txt` file using the following command:
-
+```bash 
 pip freeze > requirements.txt
 
 ---
-
+```
 ## Step 4: View or Edit `requirements.txt`
 
 You can open the `requirements.txt` file in any text editor (like VS Code, nano, or Notepad++) to view or manually edit the list of dependencies.
 
 ### Example:
-
+```text
 flask==2.2.3       # Web framework
 pandas==1.5.3      # Data analysis library
 gunicorn==20.1.0   # Production WSGI HTTP Server
 
 ---
-
-## Step 6: Install from `requirements.txt`
+```
+## Step 5: Install from `requirements.txt`
 
 To install all dependencies listed in the `requirements.txt` file (especially useful on a new machine or in a clean virtual environment), run:
-
+```bash 
 pip install -r requirements.txt
 
 ---
-
+```
 ## Step 7: Keep `requirements.txt` Updated
 
 Whenever you add or remove Python packages in your environment, regenerate the `requirements.txt` file to keep it up to date:
-
+```bash 
 pip freeze > requirements.txt
 
 ---
-
+```
 ## Contact Information
 
 | Name | Email address         |
