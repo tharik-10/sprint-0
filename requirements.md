@@ -8,6 +8,8 @@
 
 The purpose of this document is to explain the significance and usage of the requirements.txt file in Python-based projects. This file acts as a centralized list of dependencies required to run, test, or deploy the project. By maintaining this file, teams can ensure consistency across development environments, streamline setup processes, and avoid compatibility issues caused by untracked or mismatched package versions. 
 
+---
+
 ## What is `requirements.txt`?
 
 The `requirements.txt` file is a standard Python convention used to **list project dependencies**. It defines all the external libraries (packages) that your Python project needs to run successfully.
