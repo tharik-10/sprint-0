@@ -169,3 +169,17 @@ jq '.users[] | select(.id == 2)' users.json
 
 With `jq`, you can quickly extract, transform, and analyze JSON data — making your terminal workflows faster and more efficient.
 
+## Contact Information
+
+| Name | Email address         |
+|------|------------------------|
+| Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
+
+## References
+
+| Links                                                                                                                                                                                                                     | Descriptions                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [JQ Command for JSON Processing](https://www.baeldung.com/linux/jq-command-json)                                                                                                                                          | A complete guide on using the `jq` command in Linux to process and manipulate JSON data              |
+
+
+
