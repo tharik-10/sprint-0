@@ -61,7 +61,7 @@ Version control is **crucial** to avoid conflicts and bugs when dependencies cha
 
 ---
 
-## 🧪 How to Use `requirements.txt` (Step-by-Step)
+## How to Use `requirements.txt`
 
 ### 🔹 Step 1: Set Up a Virtual Environment
 
