@@ -88,3 +88,53 @@ This manual method is considered **cross-platform** because you can:
 
 This makes manual installation flexible and widely compatible across different systems.
 
+## 📘 Simple jq Query Commands
+jq is a powerful command-line JSON processor. Below are basic examples to help you get started with parsing and querying JSON data.
+
+### 📂 Sample JSON (data.json)
+```json
+{
+  "name": "Alice",
+  "age": 30,
+  "skills": ["Go", "Python", "Docker"],
+  "active": true,
+  "address": {
+    "city": "New York",
+    "zip": "10001"
+  }
+}
+```
+#### 🔹 1. Print Entire JSON
+```bash 
+jq '.' data.json
+```
+#### 🔹 2. Access a Specific Key
+```bash
+jq '.name' data.json
+```
+#### 🔹 3. Access Nested Object
+```bash
+jq '.address.city' data.json
+```
+#### 🔹 4. Access Array Elements
+```bash
+jq '.skills[0]' data.json
+```
+#### 🔹 5. Loop Through an Array
+```bash  
+jq '.skills[]' data.json
+```
+#### 🔹 6. Filter with select (Example with array of objects)
+Sample JSON (users.json):
+```bash 
+{
+  "users": [
+    {"id": 1, "name": "Alice"},
+    {"id": 2, "name": "Bob"}
+  ]
+}
+```
+Filter user with id 2:
+```bash 
+jq '.users[] | select(.id == 2)' users.json
+
