@@ -75,7 +75,6 @@ python3 -m venv venv
 # Activate the virtual environment
 source venv/bin/activate
 
----
 ```
 ### Step 2: Install Required Packages
 
@@ -83,7 +82,6 @@ Use `pip` to install the Python packages your project needs.
 ```bash 
 pip install flask pandas gunicorn
 
----
 ```
 ## Step 3: Generate `requirements.txt`
 
@@ -91,7 +89,6 @@ After installing all the necessary packages, you can generate the `requirements.
 ```bash 
 pip freeze > requirements.txt
 
----
 ```
 ## Step 4: View or Edit `requirements.txt`
 
@@ -103,7 +100,6 @@ flask==2.2.3       # Web framework
 pandas==1.5.3      # Data analysis library
 gunicorn==20.1.0   # Production WSGI HTTP Server
 
----
 ```
 ## Step 5: Install from `requirements.txt`
 
@@ -111,7 +107,6 @@ To install all dependencies listed in the `requirements.txt` file (especially us
 ```bash 
 pip install -r requirements.txt
 
----
 ```
 ## Step 7: Keep `requirements.txt` Updated
 
@@ -119,7 +114,6 @@ Whenever you add or remove Python packages in your environment, regenerate the `
 ```bash 
 pip freeze > requirements.txt
 
----
 ```
 ## Contact Information
 
