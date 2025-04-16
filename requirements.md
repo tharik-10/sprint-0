@@ -108,7 +108,7 @@ To install all dependencies listed in the `requirements.txt` file (especially us
 pip install -r requirements.txt
 
 ```
-## Step 7: Keep `requirements.txt` Updated
+## Step 6: Keep `requirements.txt` Updated
 
 Whenever you add or remove Python packages in your environment, regenerate the `requirements.txt` file to keep it up to date:
 ```bash 
