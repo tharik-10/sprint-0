@@ -123,7 +123,13 @@ Whenever you add or remove Python packages in your environment, regenerate the `
 ```bash
 pip freeze > requirements.txt
 
+---
 
+## Contact Information
+
+| Name | Email address         |
+|------|------------------------|
+| Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
 
 
