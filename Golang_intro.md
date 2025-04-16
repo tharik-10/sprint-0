@@ -163,10 +163,13 @@ Go is a preferred choice for building high-performance, scalable applications ac
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
-## Reference
+## Refrence
 
-| Links                                                                                                                                                                                                                     | Descriptions                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [Go (Golang) History](https://en.wikipedia.org/wiki/Go_(programming_language))                                                                                                                                             | A detailed history and evolution of the Go programming language.                                      |
+## 🔗 Useful Links
+
+| Links                                                                                                                                                                                                                     | Descriptions                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| [Go (Golang) History](https://en.wikipedia.org/wiki/Go_(programming_language))                                                                                                                                            | A detailed history and evolution of the Go programming language.                                          |
+| [Features of Go - StudyTonight](https://www.studytonight.com/go-language/go-features)                                                                                                                                    | Overview of Go's features such as simplicity, performance, concurrency, and built-in tools explained with examples. |
 
 
