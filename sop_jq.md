@@ -70,3 +70,21 @@ Finally, verify that `jq` has been installed successfully by checking its versio
 
 ```bash
 jq --version
+```
+
+This is manually downloading a precompiled binary for Linux 64-bit [jq GitHub Releases page](https://github.com/stedolan/jq/releases), binaries are provided for multiple platforms:
+
+- `jq-linux64` → for **64-bit Linux**
+- `jq-linux32` → for **32-bit Linux**
+- `jq-win64.exe` → for **Windows**
+- `jq-osx-amd64` → for **macOS**
+
+This manual method is considered **cross-platform** because you can:
+
+- ✅ Choose the binary for your specific operating system  
+- 📥 Download it manually  
+- 🔐 Make it executable (if required)  
+- 🚀 Run it without needing to compile or use a package manager
+
+This makes manual installation flexible and widely compatible across different systems.
+
