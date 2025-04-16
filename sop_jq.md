@@ -1,5 +1,9 @@
 # 📘 Standard Operating Procedure (SOP): Installing `jq` (Command-line JSON Processor)
 
+| Author         | Created on     | Version         | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
+|----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
+| Mohamed Tharik | 2025-04-16     |     Version 1         | Mohamed Tharik  | 2025-04-16     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
+
 ## 🔹 What is `jq`?
 `jq` is a lightweight and flexible command-line JSON processor. It allows you to slice, filter, map, and transform structured data with ease.
 
