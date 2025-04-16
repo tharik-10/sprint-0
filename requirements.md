@@ -83,14 +83,14 @@ Use `pip` to install the Python packages your project needs.
 pip install flask pandas gunicorn
 
 ```
-## Step 3: Generate `requirements.txt`
+### Step 3: Generate `requirements.txt`
 
 After installing all the necessary packages, you can generate the `requirements.txt` file using the following command:
 ```bash 
 pip freeze > requirements.txt
 
 ```
-## Step 4: View or Edit `requirements.txt`
+### Step 4: View or Edit `requirements.txt`
 
 You can open the `requirements.txt` file in any text editor (like VS Code, nano, or Notepad++) to view or manually edit the list of dependencies.
 
@@ -101,14 +101,14 @@ pandas==1.5.3      # Data analysis library
 gunicorn==20.1.0   # Production WSGI HTTP Server
 
 ```
-## Step 5: Install from `requirements.txt`
+### Step 5: Install from `requirements.txt`
 
 To install all dependencies listed in the `requirements.txt` file (especially useful on a new machine or in a clean virtual environment), run:
 ```bash 
 pip install -r requirements.txt
 
 ```
-## Step 6: Keep `requirements.txt` Updated
+### Step 6: Keep `requirements.txt` Updated
 
 Whenever you add or remove Python packages in your environment, regenerate the `requirements.txt` file to keep it up to date:
 ```bash 
