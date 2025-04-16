@@ -121,15 +121,6 @@ Before exploring Python, ensure the following system requirements are met:
 ### 9. APIs and Microservices
 - **FastAPI** and **Flask** are popular choices for lightweight RESTful APIs  
 
-
-## Dependencies
-### Build-time Dependencies
-
-| Name   | Version | Description                          |
-|--------|---------|--------------------------------------|
-| Python | 3.10+   | Core programming language interpreter |
-| pip    | Latest  | Package installer for Python          |
-
 ## Contact Information
 
 | Name | Email address         |
