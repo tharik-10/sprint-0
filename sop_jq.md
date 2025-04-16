@@ -7,11 +7,7 @@
 ## 🔹 What is `jq`?
 `jq` is a lightweight and flexible command-line JSON processor. It allows you to slice, filter, map, and transform structured data with ease.
 
----
-
 ## ✅ Installation Methods
-
----
 
 ### 🛠️ Method 1: Install `jq` Using apt (Ubuntu)
 
