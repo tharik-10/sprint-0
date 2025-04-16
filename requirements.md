@@ -1,4 +1,12 @@
-# `requirements.txt` Documentation
+# `**requirements.txt` Documentation**
+
+| Author         | Created on     | Version         | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
+|----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
+| Mohamed Tharik | 2025-04-14     |     Version 1   | Mohamed Tharik  | 2025-04-16     |Priyanshu      | Khushi      | Mukul Joshi|Piyush Upadhyay |
+
+## **Purpose**
+
+The purpose of this document is to explain the significance and usage of the requirements.txt file in Python-based projects. This file acts as a centralized list of dependencies required to run, test, or deploy the project. By maintaining this file, teams can ensure consistency across development environments, streamline setup processes, and avoid compatibility issues caused by untracked or mismatched package versions. 
 
 ## What is `requirements.txt`?
 
@@ -53,8 +61,13 @@ Version control is **crucial** to avoid conflicts and bugs when dependencies cha
 
 ---
 
-### How to Use
+## 🧪 How to Use `requirements.txt` (Step-by-Step)
+
+### 🔹 Step 1: Set Up a Virtual Environment
 
 ```bash
-# Install all dependencies from requirements.txt
-pip install -r requirements.txt
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate
