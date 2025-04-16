@@ -23,3 +23,16 @@ sudo apt install jq -y
 # Step 3: Verify installation
 jq --version
 
+```
+#### 🧹 Uninstall jq on Ubuntu
+
+If we wish to uninstall `jq` from your Ubuntu system, follow these steps:
+
+```bash
+# Step 1: Remove jq package but keep configuration files
+
+sudo apt remove jq
+
+# step 2: Completely remove jq (including configuration files)
+
+sudo apt purge jq
