@@ -133,6 +133,15 @@ pip freeze > requirements.txt
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
+🔹 Step 2: Install Required Packages
+Use pip to install the Python packages your project needs.
+
+bash
+Copy
+Edit
+pip install flask pandas gunicorn
+
+
 
 
 
