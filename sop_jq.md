@@ -34,7 +34,7 @@ Before starting, make sure you have:
     - [📋 Step-by-Step Installation](#-step-by-step-installation)
     - [🗑️ Remove the Manually Installed jq Binary](#️-remove-the-manually-installed-jq-binary-if-required)
     - [🧼 Clear the Shell Command Cache](#-clear-the-shell-command-cache)
-- [📘 Simple jq Query Commands](#simple-jq-query-commands)
+- [📘 Simple jq Query Commands](#-simple-jq-query-commands)
 - [✅ Conclusion](#-conclusion)
 - [📬 Contact Information](#-contact-information)
 - [📚 Reference](#-reference)
