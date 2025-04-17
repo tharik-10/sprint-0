@@ -23,6 +23,36 @@ Before starting with Go (Golang), ensure that you have the following prerequisit
 - **Code Editor**: Use any code editor of your choice, such as VS Code, GoLand, or Sublime Text, with Go support or plugins installed.
 - **Basic Knowledge**: Familiarity with programming concepts such as variables, loops, conditionals, and functions will be helpful, but Go’s syntax is simple enough for beginners.
 
+## Table of Contents
+
+- [🔹 History of Go (Golang)](#-history-of-go-golang)
+  - [The Beginning of Go](#the-beginning-of-go)
+  - [Problems with Existing Languages](#problems-with-existing-languages)
+  - [Key Goals Behind Go](#key-goals-behind-go)
+  - [Official Release (2009)](#official-release-2009)
+  - [Go 1.0 (2012)](#go-10-2012)
+  - [Evolution and Milestones](#evolution-and-milestones)
+  - [Go's Rise in Popularity](#gos-rise-in-popularity)
+  - [Go Today](#go-today)
+- [🔹 What is Go?](#-what-is-go)
+- [🔹 Why Go (Golang)?](#-why-go-golang)
+- [🔹 Key Features of Go](#-key-features-of-go)
+- [Use Cases of Go (Golang)](#use-cases-of-go-golang)
+  - [1. Web Development](#1-web-development)
+  - [2. Cloud-Native Applications](#2-cloud-native-applications)
+  - [3. Distributed Systems](#3-distributed-systems)
+  - [4. DevOps and Infrastructure Tools](#4-devops-and-infrastructure-tools)
+  - [5. Networking Tools](#5-networking-tools)
+  - [6. Command-Line Tools (CLI)](#6-command-line-tools-cli)
+  - [7. Microservices Architecture](#7-microservices-architecture)
+  - [8. Blockchain and Cryptocurrency](#8-blockchain-and-cryptocurrency)
+  - [9. Machine Learning and Data Processing](#9-machine-learning-and-data-processing)
+- [Conclusion](#conclusion)
+- [Contact Information](#contact-information)
+- [References](#references)
+  
+
+
 ## 🔹 History of Go (Golang)
 
 ### The Beginning of Go
@@ -163,9 +193,7 @@ Go is a preferred choice for building high-performance, scalable applications ac
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
-## Refrence
-
-## 🔗 Useful Links
+## Refrences
 
 | Links                                                                                                                                                                                                                     | Descriptions                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
