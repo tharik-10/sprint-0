@@ -4,6 +4,20 @@
 |----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
 | Mohamed Tharik | 2025-04-17     |     Version 1         | Mohamed Tharik  | 2025-04-17     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
 
+---
+
+## 🎯 Purpose
+
+The purpose of this document is to provide a comprehensive understanding of **Version Control Systems (VCS)**, their importance in modern software development, and best practices for using them effectively. This document aims to help developers, DevOps engineers, and teams:
+
+- Understand what a VCS is and why it's essential
+- Learn about different types of VCS
+- Explore the advantages and disadvantages
+- Follow standard workflows and industry best practices
+- Improve collaboration and code management
+
+---
+
 ## 📌 What is a Version Control System?
 
 A **Version Control System (VCS)** is a tool that helps developers manage and track changes to source code over time. It allows multiple people to work on the same codebase, keeps a history of changes, and facilitates collaboration and code recovery.
@@ -108,4 +122,14 @@ Version Control Systems are essential tools in modern software development. Whet
 - Maintain a clean and traceable project history  
 
 Mastering VCS is a crucial skill for developers, enabling better teamwork, faster development cycles, and safer code changes.
+
+## 📬 Contact Information
+
+| Name | Email address         |
+|------|------------------------|
+| Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
+
+## 📚 Reference
+
+| Links                                                                                                                                                                                                                     | Descriptions                                                                                         |
 
