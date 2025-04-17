@@ -2,7 +2,7 @@
 
 | Author         | Created on     | Version         | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
 |----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
-| Mohamed Tharik | 2025-04-16     |     Version 1         | Mohamed Tharik  | 2025-04-16     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
+| Mohamed Tharik | 2025-04-16     |     Version 1         | Mohamed Tharik  | 2025-04-17     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
 
 ## 🎯 Purpose 
 
@@ -11,7 +11,33 @@ This guide explains how to install and use `jq`, a command-line tool for working
 - ✅ What `jq` is used for.
 - 🛠️ How to install it (using `apt` and manual method)  
 - 🧹 How to uninstall and check the version  
-- 🔍 Common `jq` commands to work with JSON  
+- 🔍 Common `jq` commands to work with JSON
+
+## ✨ Prerequisites
+
+Before starting, make sure you have:
+
+- A Linux-based OS (Ubuntu/Debian preferred for `apt` method)
+- Terminal access with `sudo` privileges
+- Internet connection (for downloading `jq` via `apt` or `wget`)
+- Basic understanding of JSON format (optional but helpful)
+- Installed `wget` if using the manual installation method
+
+## 📑 Table of Contents
+
+- [🔹 What is `jq`?](#-what-is-jq)
+- [✅ Installation Methods](#installation-methods)
+  - [🛠️ Method 1: Install `jq` Using apt (Ubuntu)](#️-method-1-install-jq-using-apt-ubuntu)
+    - [📋 Step-by-Step](#-step-by-step)
+    - [🧹 Uninstall jq on Ubuntu](#-uninstall-jq-on-ubuntu)
+  - [🧰 Method 2: Manual Installation of jq (Cross-platform)](#-method-2-manual-installation-of-jq-cross-platform)
+    - [📋 Step-by-Step Installation](#-step-by-step-installation)
+    - [🗑️ Remove the Manually Installed jq Binary](#️-remove-the-manually-installed-jq-binary-if-required)
+    - [🧼 Clear the Shell Command Cache](#-clear-the-shell-command-cache)
+- [📘 Simple jq Query Commands](#simple-jq-query-commands)
+- [✅ Conclusion](#-conclusion)
+- [📬 Contact Information](#contact-information)
+- [📚 Reference](#reference)
 
 ## 🔹 What is `jq`?
 `jq` is a lightweight and flexible command-line JSON processor. It allows you to slice, filter, map, and transform structured data with ease.
@@ -125,27 +151,27 @@ jq is a powerful command-line JSON processor. Below are basic examples to help y
   }
 }
 ```
-#### 🔹 1. Print Entire JSON
+#### 1. Print Entire JSON
 ```bash 
 jq '.' data.json
 ```
-#### 🔹 2. Access a Specific Key
+#### 2. Access a Specific Key
 ```bash
 jq '.name' data.json
 ```
-#### 🔹 3. Access Nested Object
+#### 3. Access Nested Object
 ```bash
 jq '.address.city' data.json
 ```
-#### 🔹 4. Access Array Elements
+#### 4. Access Array Elements
 ```bash
 jq '.skills[0]' data.json
 ```
-#### 🔹 5. Loop Through an Array
+#### 5. Loop Through an Array
 ```bash  
 jq '.skills[]' data.json
 ```
-#### 🔹 6. Filter with select (Example with array of objects)
+#### 6. Filter with select (Example with array of objects)
 Sample JSON (users.json):
 ```bash 
 {
@@ -169,13 +195,13 @@ jq '.users[] | select(.id == 2)' users.json
 
 With `jq`, you can quickly extract, transform, and analyze JSON data — making your terminal workflows faster and more efficient.
 
-## Contact Information
+## 📬 Contact Information
 
 | Name | Email address         |
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
-## Reference
+## 📚 Reference
 
 | Links                                                                                                                                                                                                                     | Descriptions                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
