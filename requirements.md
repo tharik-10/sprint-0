@@ -10,6 +10,17 @@ The purpose of this document is to explain the significance and usage of the req
 
 ---
 
+## **Table of Contents**
+
+- [What is `requirements.txt`?](#what-is-requirementstxt)
+- [Why is `requirements.txt` Important?](#why-is-requirementstxt-important)
+- [Use Cases](#use-cases)
+- [Versioning Best Practices](#versioning-best-practices)
+- [Best Practices](#best-practices)
+- [How to Use `requirements.txt`](#how-to-use-requirementstxt)
+- [Contact Information](#contact-information)
+- [Reference](#reference)
+
 ## **What is `requirements.txt`?**
 
 The `requirements.txt` file is a standard Python convention used to **list project dependencies**. It defines all the external libraries (packages) that your Python project needs to run successfully.
