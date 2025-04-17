@@ -10,6 +10,43 @@
 
 This document provides an overview of the Python programming language, about its history, key features, and diverse use cases. It serves as a foundational guide for individuals seeking to understand Python's significance and applications in modern software development.​
 
+## Table of Contents
+- [What is Python ?](#what-is-python-)
+- [Why is Python so Popular ?](#why-is-python-so-popular-)
+- [Pre-requisites](#pre-requisites)
+  - [Hardware Requirements](#hardware-requirements)
+  - [Software Requirements](#software-requirements)
+- [History of Python](#history-of-python)
+- [Features of Python](#features-of-python)
+  - [Readable and Concise Syntax](#readable-and-concise-syntax)
+  - [Interpreted and Interactive](#interpreted-and-interactive)
+  - [Dynamically Typed](#dynamically-typed)
+  - [Object-Oriented and Functional Support](#object-oriented-and-functional-support)
+  - [Huge Standard Library](#huge-standard-library)
+  - [Extensibility](#extensibility)
+  - [Embeddable](#embeddable)
+  - [Open Source](#open-source)
+  - [Cross-platform](#cross-platform)
+- [Common Use Cases](#common-use-cases)
+  - [Web Development](#1-web-development)
+  - [Data Science and Machine Learning](#2-data-science-and-machine-learning)
+  - [Automation and Scripting](#3-automation-and-scripting)
+  - [DevOps and Cloud Automation](#4-devops-and-cloud-automation)
+  - [Cybersecurity](#5-cybersecurity)
+  - [Game Development](#6-game-development)
+  - [Desktop GUI Apps](#7-desktop-gui-apps)
+  - [Embedded Systems and IoT](#8-embedded-systems-and-iot)
+  - [APIs and Microservices](#9-apis-and-microservices)
+- [Contact Information](#contact-information)
+- [References](#references)
+
+---
+
+## **What is Python ?**
+
+**Python** is a **high-level**, **interpreted** programming language...
+
+
 ## **What is Python ?**
 
 **Python** is a **high-level**, **interpreted** programming language known for its **simplicity**, **readability**, and **versatility**.
