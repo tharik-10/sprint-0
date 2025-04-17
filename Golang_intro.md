@@ -8,7 +8,7 @@
 
 ## 🔹 Purpose
 
-The purpose of Go (Golang) is to provide a modern, efficient, and easy-to-use programming language for system-level and large-scale software development. Go was designed to solve issues that were prevalent with existing programming languages such as:
+The purpose of Go (Golang) is to provide a modern, efficient, and easy-to-use programming language for system-level and large-scale software development. Go was designed to solve issues that were prevalent with existing programming languages such as:🔹
 
 - **Complexity**: Go's syntax is simple and minimalistic, making it easy to learn and use, without sacrificing performance.
 - **Concurrency**: Go was created with native concurrency features like goroutines and channels, making it ideal for high-performance applications that need to handle multiple tasks simultaneously.
