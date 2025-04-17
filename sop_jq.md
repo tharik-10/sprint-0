@@ -26,7 +26,7 @@ Before starting, make sure you have:
 ## 📑 Table of Contents
 
 - [🔹 What is `jq`?](#-what-is-jq)
-- [✅ Installation Methods](#installation-methods)
+- [✅ Installation Methods](#-installation-methods)
   - [🛠️ Method 1: Install `jq` Using apt (Ubuntu)](#️-method-1-install-jq-using-apt-ubuntu)
     - [📋 Step-by-Step](#-step-by-step)
     - [🧹 Uninstall jq on Ubuntu](#-uninstall-jq-on-ubuntu)
@@ -36,8 +36,8 @@ Before starting, make sure you have:
     - [🧼 Clear the Shell Command Cache](#-clear-the-shell-command-cache)
 - [📘 Simple jq Query Commands](#simple-jq-query-commands)
 - [✅ Conclusion](#-conclusion)
-- [📬 Contact Information](#contact-information)
-- [📚 Reference](#reference)
+- [📬 Contact Information](#-contact-information)
+- [📚 Reference](#-reference)
 
 ## 🔹 What is `jq`?
 `jq` is a lightweight and flexible command-line JSON processor. It allows you to slice, filter, map, and transform structured data with ease.
