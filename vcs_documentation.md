@@ -8,12 +8,12 @@ A **Version Control System (VCS)** is a tool that helps developers manage and tr
 
 ## 🎯 Why Use a Version Control System?
 
-- ✅ Track changes and history
-- ✅ Collaborate across teams
-- ✅ Revert to previous versions
-- ✅ Branch and experiment without affecting production
-- ✅ Increase code quality and reliability
-- ✅ Backup source code securely
+- Track changes and history
+- Collaborate across teams
+- Revert to previous versions
+- Branch and experiment without affecting production
+- Increase code quality and reliability
+- Backup source code securely
 
 ---
 
@@ -37,20 +37,20 @@ A **Version Control System (VCS)** is a tool that helps developers manage and tr
 
 ## ✅ Advantages of VCS
 
-- 🔄 Easy rollback and history tracking
-- 👥 Supports team collaboration
-- 🌿 Branching and merging support
-- 🛡️ Backup and disaster recovery
-- 📄 Detailed changelogs and auditing
+- Easy rollback and history tracking
+- Supports team collaboration
+- Branching and merging support
+- Backup and disaster recovery
+- Detailed changelogs and auditing
 
 ---
 
 ## ❌ Disadvantages of VCS
 
-- 🧠 Learning curve for new users
-- ⚠️ Merge conflicts can be complex
-- 💾 Large binary files may bloat repositories
-- 🖥️ DVCS requires more local disk space
+- Learning curve for new users
+- Merge conflicts can be complex
+- Large binary files may bloat repositories
+- DVCS requires more local disk space
 
 ---
 
