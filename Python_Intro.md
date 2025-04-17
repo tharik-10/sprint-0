@@ -40,13 +40,6 @@ This document provides an overview of the Python programming language, about its
 - [Contact Information](#contact-information)
 - [References](#references)
 
----
-
-## **What is Python ?**
-
-**Python** is a **high-level**, **interpreted** programming language...
-
-
 ## **What is Python ?**
 
 **Python** is a **high-level**, **interpreted** programming language known for its **simplicity**, **readability**, and **versatility**.
@@ -69,7 +62,6 @@ Before exploring Python, ensure the following system requirements are met:
 - **Python Interpreter:** Version 3.10 or above
 - **Package Manager:** e.g., `pip`
 - **Text Editor / IDE:** e.g., VS Code, PyCharm
-
 
 ## **History of Python**
 
