@@ -2,7 +2,7 @@
 
 | Author         | Created on     | Version         | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
 |----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
-| Mohamed Tharik | 2025-04-17     |     Version 1         | Mohamed Tharik  | 2025-04-17     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
+| Mohamed Tharik | 2025-04-17     |     Version 1         | Mohamed Tharik  | 2025-04-18     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
 
 ---
 
@@ -23,8 +23,8 @@ The purpose of this document is to provide a comprehensive understanding of **Ve
 - [🎯 Why Use a Version Control System?](#-why-use-a-version-control-system)
 - [🧰 Types of Version Control Systems](#-types-of-version-control-systems)
   - [1. Local Version Control System (LVCS)](#1-local-version-control-system-lvcs)
-  - [2. Centralized VCS (CVCS)](#2-centralized-vcs-cvcs)
-  - [3. Distributed VCS (DVCS)](#3-distributed-vcs-dvcs)
+  - [2. Centralized Version Control System (CVCS)](#2-centralized-version-control-system-cvcs)
+  - [3. Distributed Version Control System (DVCS)](#3-distributed-version-control-system-dvcs)
 - [✅ Advantages of VCS](#-advantages-of-vcs)
 - [❌ Disadvantages of VCS](#-disadvantages-of-vcs)
 - [🔄 VCS Workflow (Git-based)](#-vcs-workflow-git-based)
