@@ -186,5 +186,7 @@ Mastering VCS is a crucial skill for developers, enabling better teamwork, faste
 
 ## 📚 Reference
 
-| Links                                                                                                                                                                                                                     | Descriptions                                                                                         |
+| Links                                                                                                                  | Descriptions                                   |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| [GeeksforGeeks - Version Control Systems](https://www.geeksforgeeks.org/version-control-systems/)                     | A detailed guide explaining what version control systems are, their types, benefits, and common tools used in the industry. |
 
