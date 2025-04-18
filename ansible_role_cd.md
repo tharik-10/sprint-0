@@ -1,6 +1,6 @@
 ![Ubuntu Logo](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2017/10/ansible_logo.png?fit=1800%2C514&ssl=1)
 
-# **Ansible Role in Continuous Deployement(CD)**
+# **Continuous Deployement(CD) Workflow with Ansible Roles**
 
 | Author         | Created on     | Version         | Last updated by | Last edited on | Pre Reviewer | L0 Reviewer | L1 Reviewer | L2 Reviewer |
 |----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
@@ -8,8 +8,6 @@
 
 ## Table of Contents
 
-- [Purpose of This Document](#purpose-of-this-document)
-- [Prerequisites](#prerequisites)
 - [What Is an Ansible Role?](#what-is-an-ansible-role)
 - [CD Workflow with Ansible Role – Step-by-Step](#cd-workflow-with-ansible-role--step-by-step)
   - [Code Pushed to Repository](#1-code-pushed-to-repository)
@@ -23,26 +21,6 @@
 - [Contact Information](#contact-information)
 - [Reference](#reference)
 
-
-## Purpose of This Document
-
-This document explains:
-
-- What Ansible Roles are used for
-- How Ansible Roles are used in a Continuous Deployment (CD) Workflow
-- The benefits of using Ansible Roles in real-world CI/CD pipelines
-- A step-by-step explanation of the automation process from code commit to deployment using Ansible
-
-## Prerequisites
-
-follow this document, you should have:
-
-- Basic knowledge of Linux and Shell scripting
-- Familiarity with Ansible fundamentals (playbooks, inventory, modules)
-- A working CI/CD tool (e.g., Jenkins, GitLab CI/CD)
-- Access to source code in a version control system (like Git)
-- Target servers (EC2/VMs) with SSH and Python installed
-- Ansible connectivity to target hosts
 
 ## **What Is an Ansible Role?**
 
@@ -59,6 +37,8 @@ my-role/
 ├── meta/
 ```
 ## CD Workflow with Ansible Role – Step-by-Step
+![image](https://github.com/user-attachments/assets/722cbe87-cbd3-4d13-ae42-1bc89c923efa)
+
 
 - ### 1. Code Pushed to Repository
 A developer pushes code changes to GitHub/GitLab/Bitbucket.
