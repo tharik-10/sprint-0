@@ -83,7 +83,6 @@ Each role performs a specific task:
 |Role Name | Purpose|
 |-----------|---------|
 |install_nginx | Installs and configures Nginx|
-|----------------|------------------------------|
 |deploy_web_app | Copies code, sets permissions, restarts services|
 
 - ### 5. Configuration and Deployment
