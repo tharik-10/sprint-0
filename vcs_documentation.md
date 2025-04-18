@@ -22,7 +22,7 @@ The purpose of this document is to provide a comprehensive understanding of **Ve
 - [📌 What is a Version Control System?](#-what-is-a-version-control-system)
 - [🎯 Why Use a Version Control System?](#-why-use-a-version-control-system)
 - [🧰 Types of Version Control Systems](#-types-of-version-control-systems)
-  - [1. Local VCS](#1-local-vcs)
+  - [1. Local Version Control System (LVCS)](#1-local-version-control-system-lvcs)
   - [2. Centralized VCS (CVCS)](#2-centralized-vcs-cvcs)
   - [3. Distributed VCS (DVCS)](#3-distributed-vcs-dvcs)
 - [✅ Advantages of VCS](#-advantages-of-vcs)
@@ -55,7 +55,7 @@ A **Version Control System (VCS)** is a tool that helps developers manage and tr
 
 Version Control Systems can be categorized into three main types based on how they manage data and collaboration:
 
-### 1. **Local Version Control System (Local VCS)**
+### 1. **Local Version Control System (LVCS)**
 
 A Local VCS keeps track of file changes within the same computer. These systems are simple and primarily useful for individual developers.
 
