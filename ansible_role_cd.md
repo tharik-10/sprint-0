@@ -28,7 +28,7 @@
 
 This document explains:
 
-- What Ansible Roles are
+- What Ansible Roles are used for
 - How Ansible Roles are used in a Continuous Deployment (CD) Workflow
 - The benefits of using Ansible Roles in real-world CI/CD pipelines
 - A step-by-step explanation of the automation process from code commit to deployment using Ansible
