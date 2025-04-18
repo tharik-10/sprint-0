@@ -6,6 +6,26 @@
 |----------------|----------------|-----------------|-----------------|----------------|---------------|-------------|-------------|-------------|
 | Mohamed Tharik | 2025-04-18     |     Version 1         | Mohamed Tharik  | 2025-04-18     |Priyanshu | Khushi | Mukul Joshi|Piyush Upadhyay |
 
+## Purpose of This Document
+
+This document explains:
+
+- What Ansible Roles are
+- How Ansible Roles are used in a Continuous Deployment (CD) Workflow
+- The benefits of using Ansible Roles in real-world CI/CD pipelines
+- A step-by-step explanation of the automation process from code commit to deployment using Ansible
+
+## Prerequisites
+
+follow this document, you should have:
+
+- Basic knowledge of Linux and Shell scripting
+- Familiarity with Ansible fundamentals (playbooks, inventory, modules)
+- A working CI/CD tool (e.g., Jenkins, GitLab CI/CD)
+- Access to source code in a version control system (like Git)
+- Target servers (EC2/VMs) with SSH and Python installed
+- Ansible connectivity to target hosts
+
 ## **What Is an Ansible Role?**
 
 An Ansible Role is a structured, reusable unit of automation in Ansible. It helps you organize playbooks by grouping related tasks, variables, files, templates, and handlers into a clean directory layout.
