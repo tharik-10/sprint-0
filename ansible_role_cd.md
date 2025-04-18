@@ -8,10 +8,10 @@
 
 ## Table of Contents
 
-- [Purpose of This Document](#-purpose-of-this-document)
-- [Prerequisites](#️-prerequisites)
-- [What Is an Ansible Role?](#-what-is-an-ansible-role)
-- [CD Workflow with Ansible Role – Step-by-Step](#-cd-workflow-with-ansible-role--step-by-step)
+- [Purpose of This Document](#purpose-of-this-document)
+- [Prerequisites](#prerequisites)
+- [What Is an Ansible Role?](#what-is-an-ansible-role)
+- [CD Workflow with Ansible Role – Step-by-Step](#cd-workflow-with-ansible-role--step-by-step)
   - [Code Pushed to Repository](#1-code-pushed-to-repository)
   - [CI Pipeline Runs (Optional)](#2-ci-pipeline-runs-optional)
   - [CD Pipeline Starts](#3-cd-pipeline-starts)
@@ -19,8 +19,9 @@
   - [Configuration and Deployment](#5-configuration-and-deployment)
   - [Notification](#6-notification)
 - [Benefits of Using Roles in CD](#benefits-of-using-roles-in-cd)
-- [Conclusion](#-conclusion)
-- [Contact Information](
+- [Conclusion](#conclusion)
+- [Contact Information](#contact-information)
+- [Reference](#reference)
 
 
 ## Purpose of This Document
@@ -120,7 +121,7 @@ They bring structure, reusability, and reliability to your deployments.
 |------|------------------------|
 | Mohamed Tharik  | md.tharik.sanaatak@mygurukulam.co    |
 
-## References
+## Reference
 
 | Links                                                                                                                                                                                                                     | Descriptions                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
